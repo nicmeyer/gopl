@@ -1,3 +1,4 @@
+// Ex1 prints its command-line arguments including the name of the command that invoked it.
 package main
 
 import (

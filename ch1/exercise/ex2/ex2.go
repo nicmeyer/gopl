@@ -1,3 +1,4 @@
+// Ex2 prints the index and value of its command line arguments.
 package main
 
 import (

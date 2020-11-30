@@ -1,3 +1,4 @@
+// Ex3 test benchmarks ex3.
 package main
 
 import (

@@ -1,3 +1,4 @@
+// Ex3 measures the difference in running time for different versions of the echo program.
 package main
 
 import (
