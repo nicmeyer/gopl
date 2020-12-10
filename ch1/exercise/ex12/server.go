@@ -1,5 +1,4 @@
-// Server1 is a minimal "echo" server.
-// Lissajous generates GIF animations of random Lissajous figures.
+// Server displays a Lissajous GIF
 package main
 
 import (
