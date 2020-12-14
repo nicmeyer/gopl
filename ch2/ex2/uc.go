@@ -7,7 +7,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/nicmeyer/gopl/ch2/ex2/unitconv"
+	"local/ch2/ex2/unitconv"
 )
 
 func main() {
