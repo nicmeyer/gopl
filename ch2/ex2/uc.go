@@ -52,7 +52,7 @@ func main() {
 		var arg string
 		_, err := fmt.Scanf("%s", &arg)
 		if err != nil {
-			fmt.Printf("uc: scan error %s\n", err)
+			fmt.Fprintf(os.Stderr, "uc: %v\n", err)
 			os.Exit(1)
 		}
 		printConvs(arg)
