@@ -1,3 +1,4 @@
+// Fetch prints the content found at each specified URL.
 package main
 
 import (
